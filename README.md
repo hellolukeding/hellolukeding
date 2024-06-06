@@ -13,7 +13,7 @@
 [![Backend Technologies](https://skillicons.dev/icons?i=nestjs,nginx,docker,fastapi&perline=3)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,radis)
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,gitlab,markdown,vercel,vscode,figma,githubactions,unity)
