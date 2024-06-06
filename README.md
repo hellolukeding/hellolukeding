@@ -10,7 +10,7 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,html,svg,css,tailwind,sass,rxjs,webpack,rollup)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=nestjs,nginx,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=nestjs,nginx,docker,fastapi&perline=10)](https://skillicons.dev)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb,redis)
