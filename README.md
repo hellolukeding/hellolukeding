@@ -7,7 +7,7 @@
 ![Languages](https://skillicons.dev/icons?i=js,ts,go,python,java,dart,c,cpp,cs)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,vue,next,html,svg,css,tailwind,sass,rxjs,webpack,rollup)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,flutter,vue,next,html,svg,css,tailwind,sass,rxjs,webpack,rollup)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=nestjs,nginx,docker,fastapi&perline=10)](https://skillicons.dev)
