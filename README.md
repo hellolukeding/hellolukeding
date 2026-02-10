@@ -18,7 +18,6 @@
 - 设计与开发 AI Agent 与多智能体系统  
 - LoRA 微调模型开发与部署  
 - Docker + Linux 环境运维与自动化流水线  
-- 偏好用图标传达技能而不是大段文字展示
 
 ---
 
@@ -41,6 +40,10 @@
 
 ### 🧠 AI Tooling & LLM
 ![AI Tools](https://skillicons.dev/icons?i=openai,langchain,haystack&perline=4)
+![](https://uxwing.com/claude-ai-icon/)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_UJSreg8BY4vp8bUMK-0N62zhNMQv52C4TQ&s)
+![](https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png)
+![](https://www.podfeet.com/blog/wp-content/uploads/2021/09/GitHub-Copilot-logo-1040x650.png)
 
 ### ☁️ DevOps & Infrastructure
 ![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,vercel,cloudflare,linux,ubuntu&perline=8)
