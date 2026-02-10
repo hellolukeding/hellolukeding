@@ -6,7 +6,7 @@
 > 全栈开发工程师 | AI Agent 架构 & 多智能体 | 微前端玩家  
 > 太懒了，不想动 ☕
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellolukeding&show_icons=true&count_private=true&theme=vue-dark&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hellolukeding&theme=vue-dark&hide_border=true)
 
 ---
